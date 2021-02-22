@@ -26,11 +26,11 @@ Graduating _Cum Laude_ (2017)
 
 #### College of the Ozarks, Point Lookout, MO  
 **Lab Assistant - to Dr. Jeff Rettig in "Microbiology"** (Fall 2014)  
-Prepared lab equipment and materials and graded exams.
+Prepared lab equipment and materials and graded exams.  
 **Lab Assistant - to Dr. Jeff Rettig in "Botany"** (Spring 2014)  
-Prepared lab equipment and materials, cultivated understanding in lab, and graded exams. 
+Prepared lab equipment and materials, cultivated understanding in lab, and graded exams.  
 **Lab Assistant - to Dr. Bobbi Kervin in "Medical Microbiology"** (Fall 2015, Fall 2016)  
-Prepared lab equipment and materials and graded weekly writing assignments.
+Prepared lab equipment and materials and graded weekly writing assignments.  
 **Lab Assistant - to Dr. David Zimmerman in "Introduction to Human Biology"** (Spring 2016, Spring 2017)  
 Prepared lab equipment and materials, instructed make-up labs, cultivated understanding in lab, and graded exams and weekly writing asignments. 
 
