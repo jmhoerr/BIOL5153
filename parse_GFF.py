@@ -39,7 +39,13 @@ with open(args.gff, 'r') as gff_in:
 		print(header)
 		
 		# extract the sequence 
-		print(genome.seq[int(start)-1:int(end)])
+		# print(genome.seq[int(start)-1:int(end)])
 
 
+		# calculate and return reverse complement of features on '-' strand
+		if strand == '+':
+			print(genome.seq[int(start)-1:int(end)])
+		else:
+			neg_strand = genome.seq[int(start)-1:int(end)]
+			print(neg_strand.reverse_complement())
 
