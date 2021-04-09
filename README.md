@@ -12,3 +12,5 @@ Screen shot showing **pwd** and script commands:
 ![screen shot 1] (https://github.com/jmhoerr/BIOL5153/blob/main/SS_20210329.png)  
 ### Assignment 5
 New script: nucleotide_composition.py used to calculate the nucleotide composition of nad4L sequence.  
+### parse_GFF.py
+This script will parse a GFF file and extract each feature from the genome.  
